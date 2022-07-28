@@ -1,0 +1,21 @@
+/* CSS */
+
+/* font */
+font-family: 'Poppins', sans-serif;
+
+/* Footer Height */
+.foot-h {
+    height: 250px;
+}
+
+/* Responsive */
+@media (max-width: 768px){
+    .logo{
+        display: none;
+    }
+}
+@media (max-width: 992px){
+    .logo{
+        display: none;
+    }
+}
